@@ -45,5 +45,4 @@ public class University {
         return "University{" + "StudentName=" + StudentName + ", StudentCourse=" + StudentCourse + ", Balance=" + Balance + '}';
     }
     
-    
-}
+  

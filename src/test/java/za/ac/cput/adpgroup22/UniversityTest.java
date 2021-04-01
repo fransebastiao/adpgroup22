@@ -59,4 +59,3 @@ public class UniversityTest {
         while (true);
     }
     
-}
